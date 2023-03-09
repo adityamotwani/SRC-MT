@@ -28,10 +28,10 @@ from utils.util import get_timestamp
 from validation import epochVal, epochVal_metrics
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--root_path', type=str, default='C:\\Users\\adity\\Documents\\GitHub\\SRC-MT\\data\\blood\\images', help='dataset root dir')
-parser.add_argument('--csv_file_train', type=str, default='C:\\Users\\adity\\Documents\\GitHub\\SRC-MT\\data\\blood\\train.csv', help='training set csv file')
-parser.add_argument('--csv_file_val', type=str, default='C:\\Users\\adity\\Documents\\GitHub\\SRC-MT\\data\\blood\\val.csv', help='validation set csv file')
-parser.add_argument('--csv_file_test', type=str, default='C:\\Users\\adity\\Documents\\GitHub\\SRC-MT\\data\\blood\\test.csv', help='testing set csv file')
+parser.add_argument('--root_path', type=str, default='..\\data\\blood\\images', help='dataset root dir')
+parser.add_argument('--csv_file_train', type=str, default='..\\blood\\train.csv', help='training set csv file')
+parser.add_argument('--csv_file_val', type=str, default='..\\data\\blood\\val.csv', help='validation set csv file')
+parser.add_argument('--csv_file_test', type=str, default='..\\data\\blood\\test.csv', help='testing set csv file')
 parser.add_argument('--exp', type=str,  default='xxxx', help='model_name')
 parser.add_argument('--epochs', type=int,  default=100, help='maximum epoch number to train')
 parser.add_argument('--batch_size', type=int, default=16, help='batch_size per gpu')
