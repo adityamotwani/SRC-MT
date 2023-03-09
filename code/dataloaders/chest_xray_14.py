@@ -14,10 +14,9 @@ import os
 import itertools
 from torch.utils.data.sampler import Sampler
 
-N_CLASSES = 14
+N_CLASSES = 9
 CLASS_NAMES = [
-        'Atelectasis', 'Cardiomegaly', 'Effusion', 'Infiltration', 'Mass', 'Nodule', 'Pneumonia', 'Pneumothorax',
-        'Consolidation', 'Edema', 'Emphysema', 'Fibrosis', 'Pleural_Thickening', 'Hernia', 'No Finding'
+        'basophil', 'eosinophil', 'erythroblast', 'immature granulocytes', 'lymphocyte', 'monocyte', 'neutrophil', 'platelet', 'No Finding'
                   ]
 
 class CheXpertDataset(Dataset):
@@ -31,7 +30,7 @@ class CheXpertDataset(Dataset):
         """
         super(CheXpertDataset, self).__init__()
         file = pd.read_csv(csv_file)
-        file.iloc[:, 6:] = file.iloc[:, 6:].fillna(0)        
+        # file.iloc[:, 6:] = file.iloc[:, 6:].fillna(0)        
 
         self.root_dir = root_dir
         
@@ -40,12 +39,12 @@ class CheXpertDataset(Dataset):
         labels = [i.split('|') for i in labels]       
         labels = [[CLASS_NAMES.index(i) for i in j] for j in labels]
 
-        # NOTE: convet to one_hot label
+        # NOT: convet to one_hot label
         ll = []
         for label in labels:
-            a = np.zeros([14])
+            a = np.zeros([9])
             for i in label:
-                if i != 14:
+                if i != 8:
                     a[i] = 1   
             ll.append(a)
         labels = ll

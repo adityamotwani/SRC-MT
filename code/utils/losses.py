@@ -10,8 +10,8 @@ Including:
 """
 
 METHODS = ['U-Ignore', 'U-Zeros', 'U-Ones', 'U-SelfTrained', 'U-MultiClass']
-CLASS_NUM = [1113, 6705, 514, 327, 1099, 115, 142]
-CLASS_WEIGHT = torch.Tensor([10000/i for i in CLASS_NUM]).cuda()
+CLASS_NUM = [1113, 6705, 514, 327, 1099, 115, 142, 118, 137]
+CLASS_WEIGHT = torch.Tensor([10000/i for i in CLASS_NUM])
 
 class Loss_Zeros(object):
     """

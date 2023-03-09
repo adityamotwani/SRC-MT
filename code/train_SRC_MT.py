@@ -22,16 +22,16 @@ from networks.models import DenseNet121
 from utils import losses, ramps
 from utils.metrics import compute_AUCs
 from utils.metric_logger import MetricLogger
-from dataloaders import  dataset
-from dataloaders.dataset import TwoStreamBatchSampler
+from dataloaders import chest_xray_14 as dataset
+from dataloaders.chest_xray_14 import TwoStreamBatchSampler
 from utils.util import get_timestamp
 from validation import epochVal, epochVal_metrics
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--root_path', type=str, default='/research/pheng4/qdliu/Semi/dataset/skin/training_data/', help='dataset root dir')
-parser.add_argument('--csv_file_train', type=str, default='/research/pheng4/qdliu/Semi/dataset/skin/training.csv', help='training set csv file')
-parser.add_argument('--csv_file_val', type=str, default='/research/pheng4/qdliu/Semi/dataset/skin/validation.csv', help='validation set csv file')
-parser.add_argument('--csv_file_test', type=str, default='/research/pheng4/qdliu/Semi/dataset/skin/testing.csv', help='testing set csv file')
+parser.add_argument('--root_path', type=str, default='C:\\Users\\adity\\Documents\\GitHub\\SRC-MT\\data\\blood\\images', help='dataset root dir')
+parser.add_argument('--csv_file_train', type=str, default='C:\\Users\\adity\\Documents\\GitHub\\SRC-MT\\data\\blood\\train.csv', help='training set csv file')
+parser.add_argument('--csv_file_val', type=str, default='C:\\Users\\adity\\Documents\\GitHub\\SRC-MT\\data\\blood\\val.csv', help='validation set csv file')
+parser.add_argument('--csv_file_test', type=str, default='C:\\Users\\adity\\Documents\\GitHub\\SRC-MT\\data\\blood\\test.csv', help='testing set csv file')
 parser.add_argument('--exp', type=str,  default='xxxx', help='model_name')
 parser.add_argument('--epochs', type=int,  default=100, help='maximum epoch number to train')
 parser.add_argument('--batch_size', type=int, default=16, help='batch_size per gpu')
@@ -104,7 +104,7 @@ if __name__ == "__main__":
         net = DenseNet121(out_size=dataset.N_CLASSES, mode=args.label_uncertainty, drop_rate=args.drop_rate)
         if len(args.gpu.split(',')) > 1:
             net = torch.nn.DataParallel(net)
-        model = net.cuda()
+        model = net
         if ema:
             for param in model.parameters():
                 param.detach_()
@@ -134,7 +134,7 @@ if __name__ == "__main__":
     train_dataset = dataset.CheXpertDataset(root_dir=args.root_path,
                                             csv_file=args.csv_file_train,
                                             transform=dataset.TransformTwice(transforms.Compose([
-                                                transforms.Resize((224, 224)),
+                                                transforms.Resize((128, 128)),
                                                 transforms.RandomAffine(degrees=10, translate=(0.02, 0.02)),
                                                 transforms.RandomHorizontalFlip(),
                                                 # transforms.ColorJitter(brightness=0.4, contrast=0.4, saturation=0.4, hue=0.1),
@@ -147,14 +147,14 @@ if __name__ == "__main__":
     val_dataset = dataset.CheXpertDataset(root_dir=args.root_path,
                                           csv_file=args.csv_file_val,
                                           transform=transforms.Compose([
-                                              transforms.Resize((224, 224)),
+                                              transforms.Resize((28, 28)),
                                               transforms.ToTensor(),
                                               normalize,
                                           ]))
     test_dataset = dataset.CheXpertDataset(root_dir=args.root_path,
                                           csv_file=args.csv_file_test,
                                           transform=transforms.Compose([
-                                              transforms.Resize((224, 224)),
+                                              transforms.Resize((28, 28)),
                                               transforms.ToTensor(),
                                               normalize,
                                           ]))
@@ -166,9 +166,9 @@ if __name__ == "__main__":
     def worker_init_fn(worker_id):
         random.seed(args.seed+worker_id)
     train_dataloader = DataLoader(dataset=train_dataset, batch_sampler=batch_sampler,
-                                  num_workers=8, pin_memory=True, worker_init_fn=worker_init_fn)
+                                  num_workers=8, pin_memory=True)
     val_dataloader = DataLoader(dataset=val_dataset, batch_size=batch_size,
-                                shuffle=False, num_workers=8, pin_memory=True, worker_init_fn=worker_init_fn)
+                                shuffle=False, num_workers=8, pin_memory=True)
     test_dataloader = DataLoader(dataset=test_dataset, batch_size=batch_size,
                                 shuffle=False, num_workers=8, pin_memory=True)#, worker_init_fn=worker_init_fn)
     
@@ -196,10 +196,10 @@ if __name__ == "__main__":
         meters_loss_consistency_relation = MetricLogger(delimiter="  ")
         time1 = time.time()
         iter_max = len(train_dataloader)    
-        for i, (_,_, (image_batch, ema_image_batch), label_batch) in enumerate(train_dataloader):
+        for i, (_, (image_batch, ema_image_batch), label_batch) in enumerate(train_dataloader):
             time2 = time.time()
             # print('fetch data cost {}'.format(time2-time1))
-            image_batch, ema_image_batch, label_batch = image_batch.cuda(), ema_image_batch.cuda(), label_batch.cuda()
+            image_batch, ema_image_batch, label_batch = image_batch , ema_image_batch , label_batch 
             # unlabeled_image_batch = ema_image_batch[labeled_bs:]
 
             # noise1 = torch.clamp(torch.randn_like(image_batch) * 0.1, -0.1, 0.1)

@@ -1,0 +1,1713 @@
+,Image Index,Finding Labels
+0,val_00000.png,lymphocyte
+1,val_00001.png,basophil
+2,val_00002.png,platelet
+3,val_00003.png,neutrophil
+4,val_00004.png,eosinophil
+5,val_00005.png,neutrophil
+6,val_00006.png,eosinophil
+7,val_00007.png,platelet
+8,val_00008.png,neutrophil
+9,val_00009.png,monocyte
+10,val_00010.png,erythroblast
+11,val_00011.png,eosinophil
+12,val_00012.png,neutrophil
+13,val_00013.png,erythroblast
+14,val_00014.png,platelet
+15,val_00015.png,neutrophil
+16,val_00016.png,lymphocyte
+17,val_00017.png,lymphocyte
+18,val_00018.png,monocyte
+19,val_00019.png,platelet
+20,val_00020.png,neutrophil
+21,val_00021.png,erythroblast
+22,val_00022.png,monocyte
+23,val_00023.png,eosinophil
+24,val_00024.png,platelet
+25,val_00025.png,immature granulocytes
+26,val_00026.png,neutrophil
+27,val_00027.png,neutrophil
+28,val_00028.png,neutrophil
+29,val_00029.png,eosinophil
+30,val_00030.png,platelet
+31,val_00031.png,basophil
+32,val_00032.png,basophil
+33,val_00033.png,monocyte
+34,val_00034.png,erythroblast
+35,val_00035.png,platelet
+36,val_00036.png,erythroblast
+37,val_00037.png,basophil
+38,val_00038.png,basophil
+39,val_00039.png,neutrophil
+40,val_00040.png,platelet
+41,val_00041.png,neutrophil
+42,val_00042.png,neutrophil
+43,val_00043.png,neutrophil
+44,val_00044.png,neutrophil
+45,val_00045.png,immature granulocytes
+46,val_00046.png,monocyte
+47,val_00047.png,lymphocyte
+48,val_00048.png,eosinophil
+49,val_00049.png,immature granulocytes
+50,val_00050.png,platelet
+51,val_00051.png,eosinophil
+52,val_00052.png,eosinophil
+53,val_00053.png,monocyte
+54,val_00054.png,platelet
+55,val_00055.png,lymphocyte
+56,val_00056.png,lymphocyte
+57,val_00057.png,eosinophil
+58,val_00058.png,neutrophil
+59,val_00059.png,immature granulocytes
+60,val_00060.png,basophil
+61,val_00061.png,neutrophil
+62,val_00062.png,eosinophil
+63,val_00063.png,eosinophil
+64,val_00064.png,platelet
+65,val_00065.png,eosinophil
+66,val_00066.png,lymphocyte
+67,val_00067.png,eosinophil
+68,val_00068.png,eosinophil
+69,val_00069.png,platelet
+70,val_00070.png,basophil
+71,val_00071.png,platelet
+72,val_00072.png,eosinophil
+73,val_00073.png,eosinophil
+74,val_00074.png,neutrophil
+75,val_00075.png,basophil
+76,val_00076.png,immature granulocytes
+77,val_00077.png,immature granulocytes
+78,val_00078.png,monocyte
+79,val_00079.png,immature granulocytes
+80,val_00080.png,immature granulocytes
+81,val_00081.png,immature granulocytes
+82,val_00082.png,neutrophil
+83,val_00083.png,neutrophil
+84,val_00084.png,neutrophil
+85,val_00085.png,eosinophil
+86,val_00086.png,immature granulocytes
+87,val_00087.png,neutrophil
+88,val_00088.png,neutrophil
+89,val_00089.png,neutrophil
+90,val_00090.png,immature granulocytes
+91,val_00091.png,basophil
+92,val_00092.png,erythroblast
+93,val_00093.png,platelet
+94,val_00094.png,immature granulocytes
+95,val_00095.png,platelet
+96,val_00096.png,monocyte
+97,val_00097.png,eosinophil
+98,val_00098.png,immature granulocytes
+99,val_00099.png,erythroblast
+100,val_00100.png,platelet
+101,val_00101.png,neutrophil
+102,val_00102.png,erythroblast
+103,val_00103.png,eosinophil
+104,val_00104.png,neutrophil
+105,val_00105.png,eosinophil
+106,val_00106.png,platelet
+107,val_00107.png,eosinophil
+108,val_00108.png,eosinophil
+109,val_00109.png,neutrophil
+110,val_00110.png,eosinophil
+111,val_00111.png,immature granulocytes
+112,val_00112.png,neutrophil
+113,val_00113.png,immature granulocytes
+114,val_00114.png,neutrophil
+115,val_00115.png,immature granulocytes
+116,val_00116.png,lymphocyte
+117,val_00117.png,monocyte
+118,val_00118.png,eosinophil
+119,val_00119.png,immature granulocytes
+120,val_00120.png,platelet
+121,val_00121.png,neutrophil
+122,val_00122.png,immature granulocytes
+123,val_00123.png,platelet
+124,val_00124.png,monocyte
+125,val_00125.png,immature granulocytes
+126,val_00126.png,immature granulocytes
+127,val_00127.png,platelet
+128,val_00128.png,platelet
+129,val_00129.png,immature granulocytes
+130,val_00130.png,immature granulocytes
+131,val_00131.png,immature granulocytes
+132,val_00132.png,eosinophil
+133,val_00133.png,basophil
+134,val_00134.png,eosinophil
+135,val_00135.png,immature granulocytes
+136,val_00136.png,erythroblast
+137,val_00137.png,neutrophil
+138,val_00138.png,eosinophil
+139,val_00139.png,eosinophil
+140,val_00140.png,immature granulocytes
+141,val_00141.png,eosinophil
+142,val_00142.png,eosinophil
+143,val_00143.png,eosinophil
+144,val_00144.png,platelet
+145,val_00145.png,lymphocyte
+146,val_00146.png,erythroblast
+147,val_00147.png,eosinophil
+148,val_00148.png,monocyte
+149,val_00149.png,immature granulocytes
+150,val_00150.png,eosinophil
+151,val_00151.png,basophil
+152,val_00152.png,neutrophil
+153,val_00153.png,platelet
+154,val_00154.png,basophil
+155,val_00155.png,immature granulocytes
+156,val_00156.png,erythroblast
+157,val_00157.png,lymphocyte
+158,val_00158.png,neutrophil
+159,val_00159.png,eosinophil
+160,val_00160.png,immature granulocytes
+161,val_00161.png,eosinophil
+162,val_00162.png,platelet
+163,val_00163.png,eosinophil
+164,val_00164.png,eosinophil
+165,val_00165.png,platelet
+166,val_00166.png,immature granulocytes
+167,val_00167.png,immature granulocytes
+168,val_00168.png,erythroblast
+169,val_00169.png,immature granulocytes
+170,val_00170.png,eosinophil
+171,val_00171.png,platelet
+172,val_00172.png,lymphocyte
+173,val_00173.png,monocyte
+174,val_00174.png,basophil
+175,val_00175.png,erythroblast
+176,val_00176.png,immature granulocytes
+177,val_00177.png,platelet
+178,val_00178.png,neutrophil
+179,val_00179.png,eosinophil
+180,val_00180.png,monocyte
+181,val_00181.png,lymphocyte
+182,val_00182.png,monocyte
+183,val_00183.png,lymphocyte
+184,val_00184.png,neutrophil
+185,val_00185.png,erythroblast
+186,val_00186.png,neutrophil
+187,val_00187.png,eosinophil
+188,val_00188.png,eosinophil
+189,val_00189.png,eosinophil
+190,val_00190.png,eosinophil
+191,val_00191.png,neutrophil
+192,val_00192.png,platelet
+193,val_00193.png,platelet
+194,val_00194.png,eosinophil
+195,val_00195.png,immature granulocytes
+196,val_00196.png,eosinophil
+197,val_00197.png,eosinophil
+198,val_00198.png,immature granulocytes
+199,val_00199.png,immature granulocytes
+200,val_00200.png,eosinophil
+201,val_00201.png,basophil
+202,val_00202.png,eosinophil
+203,val_00203.png,immature granulocytes
+204,val_00204.png,neutrophil
+205,val_00205.png,immature granulocytes
+206,val_00206.png,platelet
+207,val_00207.png,erythroblast
+208,val_00208.png,lymphocyte
+209,val_00209.png,immature granulocytes
+210,val_00210.png,monocyte
+211,val_00211.png,neutrophil
+212,val_00212.png,eosinophil
+213,val_00213.png,eosinophil
+214,val_00214.png,erythroblast
+215,val_00215.png,neutrophil
+216,val_00216.png,platelet
+217,val_00217.png,erythroblast
+218,val_00218.png,erythroblast
+219,val_00219.png,platelet
+220,val_00220.png,platelet
+221,val_00221.png,neutrophil
+222,val_00222.png,neutrophil
+223,val_00223.png,neutrophil
+224,val_00224.png,neutrophil
+225,val_00225.png,basophil
+226,val_00226.png,eosinophil
+227,val_00227.png,erythroblast
+228,val_00228.png,neutrophil
+229,val_00229.png,lymphocyte
+230,val_00230.png,neutrophil
+231,val_00231.png,lymphocyte
+232,val_00232.png,eosinophil
+233,val_00233.png,immature granulocytes
+234,val_00234.png,immature granulocytes
+235,val_00235.png,platelet
+236,val_00236.png,monocyte
+237,val_00237.png,immature granulocytes
+238,val_00238.png,eosinophil
+239,val_00239.png,monocyte
+240,val_00240.png,eosinophil
+241,val_00241.png,neutrophil
+242,val_00242.png,neutrophil
+243,val_00243.png,basophil
+244,val_00244.png,neutrophil
+245,val_00245.png,eosinophil
+246,val_00246.png,immature granulocytes
+247,val_00247.png,monocyte
+248,val_00248.png,eosinophil
+249,val_00249.png,platelet
+250,val_00250.png,platelet
+251,val_00251.png,immature granulocytes
+252,val_00252.png,immature granulocytes
+253,val_00253.png,basophil
+254,val_00254.png,neutrophil
+255,val_00255.png,immature granulocytes
+256,val_00256.png,eosinophil
+257,val_00257.png,eosinophil
+258,val_00258.png,neutrophil
+259,val_00259.png,eosinophil
+260,val_00260.png,neutrophil
+261,val_00261.png,basophil
+262,val_00262.png,eosinophil
+263,val_00263.png,eosinophil
+264,val_00264.png,immature granulocytes
+265,val_00265.png,platelet
+266,val_00266.png,lymphocyte
+267,val_00267.png,platelet
+268,val_00268.png,basophil
+269,val_00269.png,eosinophil
+270,val_00270.png,eosinophil
+271,val_00271.png,eosinophil
+272,val_00272.png,neutrophil
+273,val_00273.png,monocyte
+274,val_00274.png,erythroblast
+275,val_00275.png,neutrophil
+276,val_00276.png,immature granulocytes
+277,val_00277.png,eosinophil
+278,val_00278.png,eosinophil
+279,val_00279.png,platelet
+280,val_00280.png,monocyte
+281,val_00281.png,platelet
+282,val_00282.png,lymphocyte
+283,val_00283.png,immature granulocytes
+284,val_00284.png,neutrophil
+285,val_00285.png,neutrophil
+286,val_00286.png,lymphocyte
+287,val_00287.png,eosinophil
+288,val_00288.png,platelet
+289,val_00289.png,basophil
+290,val_00290.png,neutrophil
+291,val_00291.png,immature granulocytes
+292,val_00292.png,erythroblast
+293,val_00293.png,neutrophil
+294,val_00294.png,lymphocyte
+295,val_00295.png,neutrophil
+296,val_00296.png,eosinophil
+297,val_00297.png,eosinophil
+298,val_00298.png,monocyte
+299,val_00299.png,erythroblast
+300,val_00300.png,erythroblast
+301,val_00301.png,platelet
+302,val_00302.png,erythroblast
+303,val_00303.png,erythroblast
+304,val_00304.png,platelet
+305,val_00305.png,neutrophil
+306,val_00306.png,neutrophil
+307,val_00307.png,neutrophil
+308,val_00308.png,lymphocyte
+309,val_00309.png,immature granulocytes
+310,val_00310.png,monocyte
+311,val_00311.png,monocyte
+312,val_00312.png,basophil
+313,val_00313.png,neutrophil
+314,val_00314.png,erythroblast
+315,val_00315.png,neutrophil
+316,val_00316.png,erythroblast
+317,val_00317.png,immature granulocytes
+318,val_00318.png,neutrophil
+319,val_00319.png,lymphocyte
+320,val_00320.png,neutrophil
+321,val_00321.png,lymphocyte
+322,val_00322.png,eosinophil
+323,val_00323.png,neutrophil
+324,val_00324.png,platelet
+325,val_00325.png,platelet
+326,val_00326.png,platelet
+327,val_00327.png,erythroblast
+328,val_00328.png,neutrophil
+329,val_00329.png,basophil
+330,val_00330.png,neutrophil
+331,val_00331.png,platelet
+332,val_00332.png,erythroblast
+333,val_00333.png,platelet
+334,val_00334.png,platelet
+335,val_00335.png,neutrophil
+336,val_00336.png,erythroblast
+337,val_00337.png,basophil
+338,val_00338.png,neutrophil
+339,val_00339.png,immature granulocytes
+340,val_00340.png,platelet
+341,val_00341.png,erythroblast
+342,val_00342.png,erythroblast
+343,val_00343.png,platelet
+344,val_00344.png,neutrophil
+345,val_00345.png,platelet
+346,val_00346.png,platelet
+347,val_00347.png,platelet
+348,val_00348.png,basophil
+349,val_00349.png,basophil
+350,val_00350.png,basophil
+351,val_00351.png,eosinophil
+352,val_00352.png,erythroblast
+353,val_00353.png,platelet
+354,val_00354.png,eosinophil
+355,val_00355.png,neutrophil
+356,val_00356.png,basophil
+357,val_00357.png,basophil
+358,val_00358.png,immature granulocytes
+359,val_00359.png,platelet
+360,val_00360.png,erythroblast
+361,val_00361.png,eosinophil
+362,val_00362.png,neutrophil
+363,val_00363.png,basophil
+364,val_00364.png,platelet
+365,val_00365.png,erythroblast
+366,val_00366.png,basophil
+367,val_00367.png,platelet
+368,val_00368.png,neutrophil
+369,val_00369.png,platelet
+370,val_00370.png,monocyte
+371,val_00371.png,neutrophil
+372,val_00372.png,immature granulocytes
+373,val_00373.png,neutrophil
+374,val_00374.png,immature granulocytes
+375,val_00375.png,basophil
+376,val_00376.png,immature granulocytes
+377,val_00377.png,platelet
+378,val_00378.png,erythroblast
+379,val_00379.png,neutrophil
+380,val_00380.png,neutrophil
+381,val_00381.png,immature granulocytes
+382,val_00382.png,lymphocyte
+383,val_00383.png,eosinophil
+384,val_00384.png,lymphocyte
+385,val_00385.png,eosinophil
+386,val_00386.png,immature granulocytes
+387,val_00387.png,platelet
+388,val_00388.png,neutrophil
+389,val_00389.png,eosinophil
+390,val_00390.png,erythroblast
+391,val_00391.png,eosinophil
+392,val_00392.png,basophil
+393,val_00393.png,platelet
+394,val_00394.png,neutrophil
+395,val_00395.png,neutrophil
+396,val_00396.png,immature granulocytes
+397,val_00397.png,eosinophil
+398,val_00398.png,immature granulocytes
+399,val_00399.png,immature granulocytes
+400,val_00400.png,eosinophil
+401,val_00401.png,basophil
+402,val_00402.png,neutrophil
+403,val_00403.png,immature granulocytes
+404,val_00404.png,lymphocyte
+405,val_00405.png,immature granulocytes
+406,val_00406.png,eosinophil
+407,val_00407.png,erythroblast
+408,val_00408.png,platelet
+409,val_00409.png,basophil
+410,val_00410.png,eosinophil
+411,val_00411.png,monocyte
+412,val_00412.png,monocyte
+413,val_00413.png,erythroblast
+414,val_00414.png,basophil
+415,val_00415.png,monocyte
+416,val_00416.png,eosinophil
+417,val_00417.png,erythroblast
+418,val_00418.png,immature granulocytes
+419,val_00419.png,neutrophil
+420,val_00420.png,eosinophil
+421,val_00421.png,immature granulocytes
+422,val_00422.png,neutrophil
+423,val_00423.png,platelet
+424,val_00424.png,basophil
+425,val_00425.png,eosinophil
+426,val_00426.png,eosinophil
+427,val_00427.png,immature granulocytes
+428,val_00428.png,immature granulocytes
+429,val_00429.png,erythroblast
+430,val_00430.png,immature granulocytes
+431,val_00431.png,neutrophil
+432,val_00432.png,monocyte
+433,val_00433.png,immature granulocytes
+434,val_00434.png,monocyte
+435,val_00435.png,eosinophil
+436,val_00436.png,eosinophil
+437,val_00437.png,platelet
+438,val_00438.png,neutrophil
+439,val_00439.png,immature granulocytes
+440,val_00440.png,neutrophil
+441,val_00441.png,neutrophil
+442,val_00442.png,platelet
+443,val_00443.png,monocyte
+444,val_00444.png,erythroblast
+445,val_00445.png,eosinophil
+446,val_00446.png,immature granulocytes
+447,val_00447.png,immature granulocytes
+448,val_00448.png,neutrophil
+449,val_00449.png,erythroblast
+450,val_00450.png,neutrophil
+451,val_00451.png,platelet
+452,val_00452.png,eosinophil
+453,val_00453.png,immature granulocytes
+454,val_00454.png,eosinophil
+455,val_00455.png,platelet
+456,val_00456.png,lymphocyte
+457,val_00457.png,immature granulocytes
+458,val_00458.png,immature granulocytes
+459,val_00459.png,immature granulocytes
+460,val_00460.png,immature granulocytes
+461,val_00461.png,erythroblast
+462,val_00462.png,lymphocyte
+463,val_00463.png,erythroblast
+464,val_00464.png,monocyte
+465,val_00465.png,neutrophil
+466,val_00466.png,basophil
+467,val_00467.png,basophil
+468,val_00468.png,lymphocyte
+469,val_00469.png,immature granulocytes
+470,val_00470.png,immature granulocytes
+471,val_00471.png,basophil
+472,val_00472.png,immature granulocytes
+473,val_00473.png,immature granulocytes
+474,val_00474.png,immature granulocytes
+475,val_00475.png,neutrophil
+476,val_00476.png,neutrophil
+477,val_00477.png,basophil
+478,val_00478.png,platelet
+479,val_00479.png,platelet
+480,val_00480.png,neutrophil
+481,val_00481.png,immature granulocytes
+482,val_00482.png,immature granulocytes
+483,val_00483.png,erythroblast
+484,val_00484.png,basophil
+485,val_00485.png,immature granulocytes
+486,val_00486.png,monocyte
+487,val_00487.png,eosinophil
+488,val_00488.png,eosinophil
+489,val_00489.png,immature granulocytes
+490,val_00490.png,erythroblast
+491,val_00491.png,immature granulocytes
+492,val_00492.png,neutrophil
+493,val_00493.png,eosinophil
+494,val_00494.png,neutrophil
+495,val_00495.png,neutrophil
+496,val_00496.png,platelet
+497,val_00497.png,neutrophil
+498,val_00498.png,immature granulocytes
+499,val_00499.png,neutrophil
+500,val_00500.png,immature granulocytes
+501,val_00501.png,lymphocyte
+502,val_00502.png,neutrophil
+503,val_00503.png,platelet
+504,val_00504.png,immature granulocytes
+505,val_00505.png,neutrophil
+506,val_00506.png,immature granulocytes
+507,val_00507.png,platelet
+508,val_00508.png,eosinophil
+509,val_00509.png,immature granulocytes
+510,val_00510.png,eosinophil
+511,val_00511.png,eosinophil
+512,val_00512.png,platelet
+513,val_00513.png,eosinophil
+514,val_00514.png,immature granulocytes
+515,val_00515.png,platelet
+516,val_00516.png,neutrophil
+517,val_00517.png,eosinophil
+518,val_00518.png,immature granulocytes
+519,val_00519.png,platelet
+520,val_00520.png,lymphocyte
+521,val_00521.png,lymphocyte
+522,val_00522.png,immature granulocytes
+523,val_00523.png,eosinophil
+524,val_00524.png,immature granulocytes
+525,val_00525.png,erythroblast
+526,val_00526.png,immature granulocytes
+527,val_00527.png,eosinophil
+528,val_00528.png,immature granulocytes
+529,val_00529.png,platelet
+530,val_00530.png,platelet
+531,val_00531.png,neutrophil
+532,val_00532.png,platelet
+533,val_00533.png,neutrophil
+534,val_00534.png,basophil
+535,val_00535.png,neutrophil
+536,val_00536.png,lymphocyte
+537,val_00537.png,lymphocyte
+538,val_00538.png,neutrophil
+539,val_00539.png,lymphocyte
+540,val_00540.png,eosinophil
+541,val_00541.png,neutrophil
+542,val_00542.png,neutrophil
+543,val_00543.png,eosinophil
+544,val_00544.png,platelet
+545,val_00545.png,neutrophil
+546,val_00546.png,eosinophil
+547,val_00547.png,erythroblast
+548,val_00548.png,platelet
+549,val_00549.png,lymphocyte
+550,val_00550.png,neutrophil
+551,val_00551.png,platelet
+552,val_00552.png,eosinophil
+553,val_00553.png,monocyte
+554,val_00554.png,erythroblast
+555,val_00555.png,monocyte
+556,val_00556.png,eosinophil
+557,val_00557.png,basophil
+558,val_00558.png,erythroblast
+559,val_00559.png,eosinophil
+560,val_00560.png,immature granulocytes
+561,val_00561.png,basophil
+562,val_00562.png,platelet
+563,val_00563.png,platelet
+564,val_00564.png,monocyte
+565,val_00565.png,immature granulocytes
+566,val_00566.png,erythroblast
+567,val_00567.png,platelet
+568,val_00568.png,neutrophil
+569,val_00569.png,erythroblast
+570,val_00570.png,eosinophil
+571,val_00571.png,neutrophil
+572,val_00572.png,neutrophil
+573,val_00573.png,erythroblast
+574,val_00574.png,neutrophil
+575,val_00575.png,immature granulocytes
+576,val_00576.png,neutrophil
+577,val_00577.png,erythroblast
+578,val_00578.png,basophil
+579,val_00579.png,immature granulocytes
+580,val_00580.png,erythroblast
+581,val_00581.png,erythroblast
+582,val_00582.png,neutrophil
+583,val_00583.png,monocyte
+584,val_00584.png,eosinophil
+585,val_00585.png,lymphocyte
+586,val_00586.png,platelet
+587,val_00587.png,neutrophil
+588,val_00588.png,eosinophil
+589,val_00589.png,immature granulocytes
+590,val_00590.png,immature granulocytes
+591,val_00591.png,immature granulocytes
+592,val_00592.png,neutrophil
+593,val_00593.png,platelet
+594,val_00594.png,eosinophil
+595,val_00595.png,platelet
+596,val_00596.png,eosinophil
+597,val_00597.png,erythroblast
+598,val_00598.png,immature granulocytes
+599,val_00599.png,neutrophil
+600,val_00600.png,monocyte
+601,val_00601.png,immature granulocytes
+602,val_00602.png,erythroblast
+603,val_00603.png,immature granulocytes
+604,val_00604.png,neutrophil
+605,val_00605.png,lymphocyte
+606,val_00606.png,neutrophil
+607,val_00607.png,immature granulocytes
+608,val_00608.png,neutrophil
+609,val_00609.png,platelet
+610,val_00610.png,platelet
+611,val_00611.png,eosinophil
+612,val_00612.png,lymphocyte
+613,val_00613.png,platelet
+614,val_00614.png,neutrophil
+615,val_00615.png,neutrophil
+616,val_00616.png,lymphocyte
+617,val_00617.png,basophil
+618,val_00618.png,platelet
+619,val_00619.png,immature granulocytes
+620,val_00620.png,lymphocyte
+621,val_00621.png,neutrophil
+622,val_00622.png,neutrophil
+623,val_00623.png,erythroblast
+624,val_00624.png,neutrophil
+625,val_00625.png,monocyte
+626,val_00626.png,eosinophil
+627,val_00627.png,platelet
+628,val_00628.png,neutrophil
+629,val_00629.png,lymphocyte
+630,val_00630.png,erythroblast
+631,val_00631.png,basophil
+632,val_00632.png,monocyte
+633,val_00633.png,lymphocyte
+634,val_00634.png,eosinophil
+635,val_00635.png,eosinophil
+636,val_00636.png,eosinophil
+637,val_00637.png,immature granulocytes
+638,val_00638.png,lymphocyte
+639,val_00639.png,erythroblast
+640,val_00640.png,platelet
+641,val_00641.png,erythroblast
+642,val_00642.png,neutrophil
+643,val_00643.png,platelet
+644,val_00644.png,immature granulocytes
+645,val_00645.png,eosinophil
+646,val_00646.png,neutrophil
+647,val_00647.png,monocyte
+648,val_00648.png,neutrophil
+649,val_00649.png,neutrophil
+650,val_00650.png,neutrophil
+651,val_00651.png,immature granulocytes
+652,val_00652.png,eosinophil
+653,val_00653.png,neutrophil
+654,val_00654.png,monocyte
+655,val_00655.png,eosinophil
+656,val_00656.png,platelet
+657,val_00657.png,immature granulocytes
+658,val_00658.png,platelet
+659,val_00659.png,erythroblast
+660,val_00660.png,monocyte
+661,val_00661.png,monocyte
+662,val_00662.png,neutrophil
+663,val_00663.png,monocyte
+664,val_00664.png,basophil
+665,val_00665.png,immature granulocytes
+666,val_00666.png,platelet
+667,val_00667.png,eosinophil
+668,val_00668.png,basophil
+669,val_00669.png,basophil
+670,val_00670.png,monocyte
+671,val_00671.png,lymphocyte
+672,val_00672.png,monocyte
+673,val_00673.png,eosinophil
+674,val_00674.png,eosinophil
+675,val_00675.png,immature granulocytes
+676,val_00676.png,erythroblast
+677,val_00677.png,erythroblast
+678,val_00678.png,eosinophil
+679,val_00679.png,erythroblast
+680,val_00680.png,platelet
+681,val_00681.png,immature granulocytes
+682,val_00682.png,immature granulocytes
+683,val_00683.png,immature granulocytes
+684,val_00684.png,neutrophil
+685,val_00685.png,monocyte
+686,val_00686.png,eosinophil
+687,val_00687.png,erythroblast
+688,val_00688.png,immature granulocytes
+689,val_00689.png,immature granulocytes
+690,val_00690.png,eosinophil
+691,val_00691.png,immature granulocytes
+692,val_00692.png,erythroblast
+693,val_00693.png,neutrophil
+694,val_00694.png,neutrophil
+695,val_00695.png,eosinophil
+696,val_00696.png,eosinophil
+697,val_00697.png,eosinophil
+698,val_00698.png,neutrophil
+699,val_00699.png,immature granulocytes
+700,val_00700.png,platelet
+701,val_00701.png,monocyte
+702,val_00702.png,erythroblast
+703,val_00703.png,basophil
+704,val_00704.png,immature granulocytes
+705,val_00705.png,neutrophil
+706,val_00706.png,immature granulocytes
+707,val_00707.png,neutrophil
+708,val_00708.png,neutrophil
+709,val_00709.png,neutrophil
+710,val_00710.png,immature granulocytes
+711,val_00711.png,lymphocyte
+712,val_00712.png,erythroblast
+713,val_00713.png,platelet
+714,val_00714.png,platelet
+715,val_00715.png,lymphocyte
+716,val_00716.png,platelet
+717,val_00717.png,erythroblast
+718,val_00718.png,monocyte
+719,val_00719.png,eosinophil
+720,val_00720.png,eosinophil
+721,val_00721.png,neutrophil
+722,val_00722.png,monocyte
+723,val_00723.png,immature granulocytes
+724,val_00724.png,basophil
+725,val_00725.png,neutrophil
+726,val_00726.png,platelet
+727,val_00727.png,neutrophil
+728,val_00728.png,platelet
+729,val_00729.png,eosinophil
+730,val_00730.png,neutrophil
+731,val_00731.png,platelet
+732,val_00732.png,neutrophil
+733,val_00733.png,platelet
+734,val_00734.png,lymphocyte
+735,val_00735.png,basophil
+736,val_00736.png,immature granulocytes
+737,val_00737.png,lymphocyte
+738,val_00738.png,neutrophil
+739,val_00739.png,immature granulocytes
+740,val_00740.png,neutrophil
+741,val_00741.png,eosinophil
+742,val_00742.png,neutrophil
+743,val_00743.png,immature granulocytes
+744,val_00744.png,erythroblast
+745,val_00745.png,neutrophil
+746,val_00746.png,lymphocyte
+747,val_00747.png,eosinophil
+748,val_00748.png,platelet
+749,val_00749.png,monocyte
+750,val_00750.png,monocyte
+751,val_00751.png,neutrophil
+752,val_00752.png,eosinophil
+753,val_00753.png,eosinophil
+754,val_00754.png,eosinophil
+755,val_00755.png,neutrophil
+756,val_00756.png,lymphocyte
+757,val_00757.png,immature granulocytes
+758,val_00758.png,platelet
+759,val_00759.png,erythroblast
+760,val_00760.png,lymphocyte
+761,val_00761.png,monocyte
+762,val_00762.png,eosinophil
+763,val_00763.png,neutrophil
+764,val_00764.png,neutrophil
+765,val_00765.png,platelet
+766,val_00766.png,erythroblast
+767,val_00767.png,erythroblast
+768,val_00768.png,erythroblast
+769,val_00769.png,basophil
+770,val_00770.png,monocyte
+771,val_00771.png,lymphocyte
+772,val_00772.png,lymphocyte
+773,val_00773.png,eosinophil
+774,val_00774.png,immature granulocytes
+775,val_00775.png,immature granulocytes
+776,val_00776.png,platelet
+777,val_00777.png,immature granulocytes
+778,val_00778.png,lymphocyte
+779,val_00779.png,neutrophil
+780,val_00780.png,erythroblast
+781,val_00781.png,eosinophil
+782,val_00782.png,eosinophil
+783,val_00783.png,platelet
+784,val_00784.png,monocyte
+785,val_00785.png,basophil
+786,val_00786.png,eosinophil
+787,val_00787.png,neutrophil
+788,val_00788.png,lymphocyte
+789,val_00789.png,eosinophil
+790,val_00790.png,lymphocyte
+791,val_00791.png,platelet
+792,val_00792.png,basophil
+793,val_00793.png,immature granulocytes
+794,val_00794.png,neutrophil
+795,val_00795.png,immature granulocytes
+796,val_00796.png,eosinophil
+797,val_00797.png,monocyte
+798,val_00798.png,platelet
+799,val_00799.png,erythroblast
+800,val_00800.png,basophil
+801,val_00801.png,platelet
+802,val_00802.png,platelet
+803,val_00803.png,lymphocyte
+804,val_00804.png,neutrophil
+805,val_00805.png,platelet
+806,val_00806.png,eosinophil
+807,val_00807.png,neutrophil
+808,val_00808.png,erythroblast
+809,val_00809.png,platelet
+810,val_00810.png,immature granulocytes
+811,val_00811.png,neutrophil
+812,val_00812.png,neutrophil
+813,val_00813.png,lymphocyte
+814,val_00814.png,monocyte
+815,val_00815.png,neutrophil
+816,val_00816.png,immature granulocytes
+817,val_00817.png,immature granulocytes
+818,val_00818.png,monocyte
+819,val_00819.png,immature granulocytes
+820,val_00820.png,neutrophil
+821,val_00821.png,neutrophil
+822,val_00822.png,eosinophil
+823,val_00823.png,neutrophil
+824,val_00824.png,platelet
+825,val_00825.png,eosinophil
+826,val_00826.png,platelet
+827,val_00827.png,platelet
+828,val_00828.png,eosinophil
+829,val_00829.png,immature granulocytes
+830,val_00830.png,neutrophil
+831,val_00831.png,platelet
+832,val_00832.png,lymphocyte
+833,val_00833.png,immature granulocytes
+834,val_00834.png,lymphocyte
+835,val_00835.png,basophil
+836,val_00836.png,neutrophil
+837,val_00837.png,platelet
+838,val_00838.png,eosinophil
+839,val_00839.png,immature granulocytes
+840,val_00840.png,eosinophil
+841,val_00841.png,eosinophil
+842,val_00842.png,neutrophil
+843,val_00843.png,immature granulocytes
+844,val_00844.png,neutrophil
+845,val_00845.png,eosinophil
+846,val_00846.png,immature granulocytes
+847,val_00847.png,neutrophil
+848,val_00848.png,monocyte
+849,val_00849.png,neutrophil
+850,val_00850.png,eosinophil
+851,val_00851.png,lymphocyte
+852,val_00852.png,neutrophil
+853,val_00853.png,eosinophil
+854,val_00854.png,immature granulocytes
+855,val_00855.png,neutrophil
+856,val_00856.png,platelet
+857,val_00857.png,monocyte
+858,val_00858.png,neutrophil
+859,val_00859.png,eosinophil
+860,val_00860.png,platelet
+861,val_00861.png,lymphocyte
+862,val_00862.png,monocyte
+863,val_00863.png,immature granulocytes
+864,val_00864.png,eosinophil
+865,val_00865.png,erythroblast
+866,val_00866.png,erythroblast
+867,val_00867.png,basophil
+868,val_00868.png,platelet
+869,val_00869.png,neutrophil
+870,val_00870.png,neutrophil
+871,val_00871.png,eosinophil
+872,val_00872.png,immature granulocytes
+873,val_00873.png,platelet
+874,val_00874.png,basophil
+875,val_00875.png,monocyte
+876,val_00876.png,immature granulocytes
+877,val_00877.png,immature granulocytes
+878,val_00878.png,immature granulocytes
+879,val_00879.png,platelet
+880,val_00880.png,platelet
+881,val_00881.png,monocyte
+882,val_00882.png,platelet
+883,val_00883.png,eosinophil
+884,val_00884.png,monocyte
+885,val_00885.png,eosinophil
+886,val_00886.png,neutrophil
+887,val_00887.png,eosinophil
+888,val_00888.png,monocyte
+889,val_00889.png,platelet
+890,val_00890.png,immature granulocytes
+891,val_00891.png,immature granulocytes
+892,val_00892.png,erythroblast
+893,val_00893.png,neutrophil
+894,val_00894.png,lymphocyte
+895,val_00895.png,neutrophil
+896,val_00896.png,eosinophil
+897,val_00897.png,eosinophil
+898,val_00898.png,erythroblast
+899,val_00899.png,immature granulocytes
+900,val_00900.png,immature granulocytes
+901,val_00901.png,basophil
+902,val_00902.png,platelet
+903,val_00903.png,lymphocyte
+904,val_00904.png,monocyte
+905,val_00905.png,neutrophil
+906,val_00906.png,neutrophil
+907,val_00907.png,monocyte
+908,val_00908.png,erythroblast
+909,val_00909.png,neutrophil
+910,val_00910.png,monocyte
+911,val_00911.png,immature granulocytes
+912,val_00912.png,eosinophil
+913,val_00913.png,neutrophil
+914,val_00914.png,immature granulocytes
+915,val_00915.png,eosinophil
+916,val_00916.png,neutrophil
+917,val_00917.png,monocyte
+918,val_00918.png,platelet
+919,val_00919.png,eosinophil
+920,val_00920.png,platelet
+921,val_00921.png,eosinophil
+922,val_00922.png,eosinophil
+923,val_00923.png,neutrophil
+924,val_00924.png,immature granulocytes
+925,val_00925.png,immature granulocytes
+926,val_00926.png,monocyte
+927,val_00927.png,platelet
+928,val_00928.png,monocyte
+929,val_00929.png,immature granulocytes
+930,val_00930.png,immature granulocytes
+931,val_00931.png,platelet
+932,val_00932.png,platelet
+933,val_00933.png,platelet
+934,val_00934.png,lymphocyte
+935,val_00935.png,immature granulocytes
+936,val_00936.png,immature granulocytes
+937,val_00937.png,neutrophil
+938,val_00938.png,immature granulocytes
+939,val_00939.png,eosinophil
+940,val_00940.png,immature granulocytes
+941,val_00941.png,immature granulocytes
+942,val_00942.png,neutrophil
+943,val_00943.png,erythroblast
+944,val_00944.png,immature granulocytes
+945,val_00945.png,monocyte
+946,val_00946.png,immature granulocytes
+947,val_00947.png,immature granulocytes
+948,val_00948.png,neutrophil
+949,val_00949.png,platelet
+950,val_00950.png,immature granulocytes
+951,val_00951.png,basophil
+952,val_00952.png,immature granulocytes
+953,val_00953.png,eosinophil
+954,val_00954.png,platelet
+955,val_00955.png,erythroblast
+956,val_00956.png,eosinophil
+957,val_00957.png,eosinophil
+958,val_00958.png,lymphocyte
+959,val_00959.png,neutrophil
+960,val_00960.png,erythroblast
+961,val_00961.png,lymphocyte
+962,val_00962.png,neutrophil
+963,val_00963.png,basophil
+964,val_00964.png,monocyte
+965,val_00965.png,immature granulocytes
+966,val_00966.png,monocyte
+967,val_00967.png,immature granulocytes
+968,val_00968.png,monocyte
+969,val_00969.png,immature granulocytes
+970,val_00970.png,eosinophil
+971,val_00971.png,erythroblast
+972,val_00972.png,monocyte
+973,val_00973.png,neutrophil
+974,val_00974.png,eosinophil
+975,val_00975.png,eosinophil
+976,val_00976.png,neutrophil
+977,val_00977.png,eosinophil
+978,val_00978.png,lymphocyte
+979,val_00979.png,eosinophil
+980,val_00980.png,immature granulocytes
+981,val_00981.png,immature granulocytes
+982,val_00982.png,eosinophil
+983,val_00983.png,monocyte
+984,val_00984.png,neutrophil
+985,val_00985.png,neutrophil
+986,val_00986.png,platelet
+987,val_00987.png,immature granulocytes
+988,val_00988.png,eosinophil
+989,val_00989.png,eosinophil
+990,val_00990.png,neutrophil
+991,val_00991.png,lymphocyte
+992,val_00992.png,eosinophil
+993,val_00993.png,immature granulocytes
+994,val_00994.png,neutrophil
+995,val_00995.png,lymphocyte
+996,val_00996.png,erythroblast
+997,val_00997.png,eosinophil
+998,val_00998.png,monocyte
+999,val_00999.png,platelet
+1000,val_01000.png,eosinophil
+1001,val_01001.png,lymphocyte
+1002,val_01002.png,eosinophil
+1003,val_01003.png,monocyte
+1004,val_01004.png,neutrophil
+1005,val_01005.png,neutrophil
+1006,val_01006.png,platelet
+1007,val_01007.png,eosinophil
+1008,val_01008.png,neutrophil
+1009,val_01009.png,immature granulocytes
+1010,val_01010.png,platelet
+1011,val_01011.png,immature granulocytes
+1012,val_01012.png,immature granulocytes
+1013,val_01013.png,neutrophil
+1014,val_01014.png,lymphocyte
+1015,val_01015.png,neutrophil
+1016,val_01016.png,basophil
+1017,val_01017.png,neutrophil
+1018,val_01018.png,monocyte
+1019,val_01019.png,basophil
+1020,val_01020.png,neutrophil
+1021,val_01021.png,lymphocyte
+1022,val_01022.png,lymphocyte
+1023,val_01023.png,neutrophil
+1024,val_01024.png,neutrophil
+1025,val_01025.png,basophil
+1026,val_01026.png,immature granulocytes
+1027,val_01027.png,lymphocyte
+1028,val_01028.png,monocyte
+1029,val_01029.png,immature granulocytes
+1030,val_01030.png,lymphocyte
+1031,val_01031.png,eosinophil
+1032,val_01032.png,platelet
+1033,val_01033.png,neutrophil
+1034,val_01034.png,platelet
+1035,val_01035.png,lymphocyte
+1036,val_01036.png,eosinophil
+1037,val_01037.png,erythroblast
+1038,val_01038.png,lymphocyte
+1039,val_01039.png,monocyte
+1040,val_01040.png,immature granulocytes
+1041,val_01041.png,eosinophil
+1042,val_01042.png,eosinophil
+1043,val_01043.png,erythroblast
+1044,val_01044.png,monocyte
+1045,val_01045.png,erythroblast
+1046,val_01046.png,erythroblast
+1047,val_01047.png,immature granulocytes
+1048,val_01048.png,erythroblast
+1049,val_01049.png,platelet
+1050,val_01050.png,immature granulocytes
+1051,val_01051.png,eosinophil
+1052,val_01052.png,eosinophil
+1053,val_01053.png,neutrophil
+1054,val_01054.png,basophil
+1055,val_01055.png,eosinophil
+1056,val_01056.png,platelet
+1057,val_01057.png,immature granulocytes
+1058,val_01058.png,platelet
+1059,val_01059.png,erythroblast
+1060,val_01060.png,erythroblast
+1061,val_01061.png,neutrophil
+1062,val_01062.png,platelet
+1063,val_01063.png,eosinophil
+1064,val_01064.png,immature granulocytes
+1065,val_01065.png,erythroblast
+1066,val_01066.png,erythroblast
+1067,val_01067.png,neutrophil
+1068,val_01068.png,neutrophil
+1069,val_01069.png,platelet
+1070,val_01070.png,lymphocyte
+1071,val_01071.png,eosinophil
+1072,val_01072.png,neutrophil
+1073,val_01073.png,immature granulocytes
+1074,val_01074.png,basophil
+1075,val_01075.png,eosinophil
+1076,val_01076.png,neutrophil
+1077,val_01077.png,immature granulocytes
+1078,val_01078.png,platelet
+1079,val_01079.png,erythroblast
+1080,val_01080.png,immature granulocytes
+1081,val_01081.png,lymphocyte
+1082,val_01082.png,neutrophil
+1083,val_01083.png,platelet
+1084,val_01084.png,neutrophil
+1085,val_01085.png,eosinophil
+1086,val_01086.png,platelet
+1087,val_01087.png,eosinophil
+1088,val_01088.png,eosinophil
+1089,val_01089.png,immature granulocytes
+1090,val_01090.png,immature granulocytes
+1091,val_01091.png,neutrophil
+1092,val_01092.png,platelet
+1093,val_01093.png,monocyte
+1094,val_01094.png,lymphocyte
+1095,val_01095.png,immature granulocytes
+1096,val_01096.png,eosinophil
+1097,val_01097.png,basophil
+1098,val_01098.png,neutrophil
+1099,val_01099.png,eosinophil
+1100,val_01100.png,neutrophil
+1101,val_01101.png,erythroblast
+1102,val_01102.png,immature granulocytes
+1103,val_01103.png,immature granulocytes
+1104,val_01104.png,erythroblast
+1105,val_01105.png,neutrophil
+1106,val_01106.png,erythroblast
+1107,val_01107.png,lymphocyte
+1108,val_01108.png,neutrophil
+1109,val_01109.png,erythroblast
+1110,val_01110.png,basophil
+1111,val_01111.png,basophil
+1112,val_01112.png,neutrophil
+1113,val_01113.png,platelet
+1114,val_01114.png,erythroblast
+1115,val_01115.png,immature granulocytes
+1116,val_01116.png,basophil
+1117,val_01117.png,eosinophil
+1118,val_01118.png,platelet
+1119,val_01119.png,immature granulocytes
+1120,val_01120.png,immature granulocytes
+1121,val_01121.png,neutrophil
+1122,val_01122.png,platelet
+1123,val_01123.png,erythroblast
+1124,val_01124.png,basophil
+1125,val_01125.png,platelet
+1126,val_01126.png,eosinophil
+1127,val_01127.png,monocyte
+1128,val_01128.png,immature granulocytes
+1129,val_01129.png,eosinophil
+1130,val_01130.png,basophil
+1131,val_01131.png,erythroblast
+1132,val_01132.png,monocyte
+1133,val_01133.png,platelet
+1134,val_01134.png,immature granulocytes
+1135,val_01135.png,erythroblast
+1136,val_01136.png,immature granulocytes
+1137,val_01137.png,erythroblast
+1138,val_01138.png,basophil
+1139,val_01139.png,eosinophil
+1140,val_01140.png,basophil
+1141,val_01141.png,neutrophil
+1142,val_01142.png,monocyte
+1143,val_01143.png,basophil
+1144,val_01144.png,erythroblast
+1145,val_01145.png,monocyte
+1146,val_01146.png,erythroblast
+1147,val_01147.png,lymphocyte
+1148,val_01148.png,immature granulocytes
+1149,val_01149.png,platelet
+1150,val_01150.png,immature granulocytes
+1151,val_01151.png,neutrophil
+1152,val_01152.png,platelet
+1153,val_01153.png,platelet
+1154,val_01154.png,neutrophil
+1155,val_01155.png,eosinophil
+1156,val_01156.png,neutrophil
+1157,val_01157.png,basophil
+1158,val_01158.png,eosinophil
+1159,val_01159.png,platelet
+1160,val_01160.png,platelet
+1161,val_01161.png,platelet
+1162,val_01162.png,monocyte
+1163,val_01163.png,eosinophil
+1164,val_01164.png,eosinophil
+1165,val_01165.png,neutrophil
+1166,val_01166.png,neutrophil
+1167,val_01167.png,eosinophil
+1168,val_01168.png,eosinophil
+1169,val_01169.png,immature granulocytes
+1170,val_01170.png,eosinophil
+1171,val_01171.png,basophil
+1172,val_01172.png,immature granulocytes
+1173,val_01173.png,neutrophil
+1174,val_01174.png,basophil
+1175,val_01175.png,basophil
+1176,val_01176.png,platelet
+1177,val_01177.png,neutrophil
+1178,val_01178.png,platelet
+1179,val_01179.png,erythroblast
+1180,val_01180.png,platelet
+1181,val_01181.png,immature granulocytes
+1182,val_01182.png,monocyte
+1183,val_01183.png,neutrophil
+1184,val_01184.png,basophil
+1185,val_01185.png,immature granulocytes
+1186,val_01186.png,platelet
+1187,val_01187.png,eosinophil
+1188,val_01188.png,erythroblast
+1189,val_01189.png,neutrophil
+1190,val_01190.png,platelet
+1191,val_01191.png,neutrophil
+1192,val_01192.png,neutrophil
+1193,val_01193.png,neutrophil
+1194,val_01194.png,erythroblast
+1195,val_01195.png,basophil
+1196,val_01196.png,platelet
+1197,val_01197.png,eosinophil
+1198,val_01198.png,monocyte
+1199,val_01199.png,erythroblast
+1200,val_01200.png,lymphocyte
+1201,val_01201.png,erythroblast
+1202,val_01202.png,immature granulocytes
+1203,val_01203.png,monocyte
+1204,val_01204.png,immature granulocytes
+1205,val_01205.png,platelet
+1206,val_01206.png,lymphocyte
+1207,val_01207.png,neutrophil
+1208,val_01208.png,erythroblast
+1209,val_01209.png,basophil
+1210,val_01210.png,monocyte
+1211,val_01211.png,neutrophil
+1212,val_01212.png,eosinophil
+1213,val_01213.png,eosinophil
+1214,val_01214.png,platelet
+1215,val_01215.png,immature granulocytes
+1216,val_01216.png,eosinophil
+1217,val_01217.png,immature granulocytes
+1218,val_01218.png,immature granulocytes
+1219,val_01219.png,eosinophil
+1220,val_01220.png,erythroblast
+1221,val_01221.png,neutrophil
+1222,val_01222.png,neutrophil
+1223,val_01223.png,immature granulocytes
+1224,val_01224.png,platelet
+1225,val_01225.png,immature granulocytes
+1226,val_01226.png,immature granulocytes
+1227,val_01227.png,basophil
+1228,val_01228.png,lymphocyte
+1229,val_01229.png,erythroblast
+1230,val_01230.png,neutrophil
+1231,val_01231.png,immature granulocytes
+1232,val_01232.png,erythroblast
+1233,val_01233.png,basophil
+1234,val_01234.png,neutrophil
+1235,val_01235.png,neutrophil
+1236,val_01236.png,immature granulocytes
+1237,val_01237.png,immature granulocytes
+1238,val_01238.png,platelet
+1239,val_01239.png,monocyte
+1240,val_01240.png,monocyte
+1241,val_01241.png,lymphocyte
+1242,val_01242.png,immature granulocytes
+1243,val_01243.png,eosinophil
+1244,val_01244.png,lymphocyte
+1245,val_01245.png,lymphocyte
+1246,val_01246.png,platelet
+1247,val_01247.png,basophil
+1248,val_01248.png,platelet
+1249,val_01249.png,immature granulocytes
+1250,val_01250.png,erythroblast
+1251,val_01251.png,basophil
+1252,val_01252.png,neutrophil
+1253,val_01253.png,platelet
+1254,val_01254.png,eosinophil
+1255,val_01255.png,basophil
+1256,val_01256.png,erythroblast
+1257,val_01257.png,platelet
+1258,val_01258.png,immature granulocytes
+1259,val_01259.png,immature granulocytes
+1260,val_01260.png,platelet
+1261,val_01261.png,erythroblast
+1262,val_01262.png,monocyte
+1263,val_01263.png,monocyte
+1264,val_01264.png,immature granulocytes
+1265,val_01265.png,immature granulocytes
+1266,val_01266.png,immature granulocytes
+1267,val_01267.png,erythroblast
+1268,val_01268.png,eosinophil
+1269,val_01269.png,immature granulocytes
+1270,val_01270.png,neutrophil
+1271,val_01271.png,eosinophil
+1272,val_01272.png,lymphocyte
+1273,val_01273.png,erythroblast
+1274,val_01274.png,eosinophil
+1275,val_01275.png,neutrophil
+1276,val_01276.png,platelet
+1277,val_01277.png,neutrophil
+1278,val_01278.png,eosinophil
+1279,val_01279.png,monocyte
+1280,val_01280.png,immature granulocytes
+1281,val_01281.png,neutrophil
+1282,val_01282.png,basophil
+1283,val_01283.png,basophil
+1284,val_01284.png,erythroblast
+1285,val_01285.png,eosinophil
+1286,val_01286.png,neutrophil
+1287,val_01287.png,basophil
+1288,val_01288.png,neutrophil
+1289,val_01289.png,immature granulocytes
+1290,val_01290.png,neutrophil
+1291,val_01291.png,eosinophil
+1292,val_01292.png,immature granulocytes
+1293,val_01293.png,eosinophil
+1294,val_01294.png,immature granulocytes
+1295,val_01295.png,eosinophil
+1296,val_01296.png,neutrophil
+1297,val_01297.png,eosinophil
+1298,val_01298.png,eosinophil
+1299,val_01299.png,neutrophil
+1300,val_01300.png,immature granulocytes
+1301,val_01301.png,eosinophil
+1302,val_01302.png,neutrophil
+1303,val_01303.png,eosinophil
+1304,val_01304.png,lymphocyte
+1305,val_01305.png,monocyte
+1306,val_01306.png,eosinophil
+1307,val_01307.png,eosinophil
+1308,val_01308.png,eosinophil
+1309,val_01309.png,lymphocyte
+1310,val_01310.png,immature granulocytes
+1311,val_01311.png,eosinophil
+1312,val_01312.png,immature granulocytes
+1313,val_01313.png,lymphocyte
+1314,val_01314.png,neutrophil
+1315,val_01315.png,neutrophil
+1316,val_01316.png,basophil
+1317,val_01317.png,erythroblast
+1318,val_01318.png,neutrophil
+1319,val_01319.png,platelet
+1320,val_01320.png,neutrophil
+1321,val_01321.png,immature granulocytes
+1322,val_01322.png,platelet
+1323,val_01323.png,monocyte
+1324,val_01324.png,eosinophil
+1325,val_01325.png,basophil
+1326,val_01326.png,platelet
+1327,val_01327.png,erythroblast
+1328,val_01328.png,immature granulocytes
+1329,val_01329.png,neutrophil
+1330,val_01330.png,monocyte
+1331,val_01331.png,immature granulocytes
+1332,val_01332.png,neutrophil
+1333,val_01333.png,eosinophil
+1334,val_01334.png,eosinophil
+1335,val_01335.png,eosinophil
+1336,val_01336.png,eosinophil
+1337,val_01337.png,eosinophil
+1338,val_01338.png,basophil
+1339,val_01339.png,neutrophil
+1340,val_01340.png,platelet
+1341,val_01341.png,basophil
+1342,val_01342.png,immature granulocytes
+1343,val_01343.png,platelet
+1344,val_01344.png,erythroblast
+1345,val_01345.png,erythroblast
+1346,val_01346.png,basophil
+1347,val_01347.png,neutrophil
+1348,val_01348.png,lymphocyte
+1349,val_01349.png,monocyte
+1350,val_01350.png,platelet
+1351,val_01351.png,immature granulocytes
+1352,val_01352.png,monocyte
+1353,val_01353.png,platelet
+1354,val_01354.png,eosinophil
+1355,val_01355.png,lymphocyte
+1356,val_01356.png,basophil
+1357,val_01357.png,neutrophil
+1358,val_01358.png,monocyte
+1359,val_01359.png,platelet
+1360,val_01360.png,platelet
+1361,val_01361.png,eosinophil
+1362,val_01362.png,platelet
+1363,val_01363.png,eosinophil
+1364,val_01364.png,neutrophil
+1365,val_01365.png,immature granulocytes
+1366,val_01366.png,basophil
+1367,val_01367.png,immature granulocytes
+1368,val_01368.png,neutrophil
+1369,val_01369.png,neutrophil
+1370,val_01370.png,monocyte
+1371,val_01371.png,immature granulocytes
+1372,val_01372.png,lymphocyte
+1373,val_01373.png,erythroblast
+1374,val_01374.png,basophil
+1375,val_01375.png,basophil
+1376,val_01376.png,erythroblast
+1377,val_01377.png,neutrophil
+1378,val_01378.png,platelet
+1379,val_01379.png,eosinophil
+1380,val_01380.png,immature granulocytes
+1381,val_01381.png,eosinophil
+1382,val_01382.png,basophil
+1383,val_01383.png,eosinophil
+1384,val_01384.png,platelet
+1385,val_01385.png,platelet
+1386,val_01386.png,eosinophil
+1387,val_01387.png,monocyte
+1388,val_01388.png,immature granulocytes
+1389,val_01389.png,neutrophil
+1390,val_01390.png,eosinophil
+1391,val_01391.png,immature granulocytes
+1392,val_01392.png,neutrophil
+1393,val_01393.png,immature granulocytes
+1394,val_01394.png,neutrophil
+1395,val_01395.png,neutrophil
+1396,val_01396.png,neutrophil
+1397,val_01397.png,basophil
+1398,val_01398.png,monocyte
+1399,val_01399.png,eosinophil
+1400,val_01400.png,monocyte
+1401,val_01401.png,basophil
+1402,val_01402.png,neutrophil
+1403,val_01403.png,platelet
+1404,val_01404.png,erythroblast
+1405,val_01405.png,lymphocyte
+1406,val_01406.png,lymphocyte
+1407,val_01407.png,eosinophil
+1408,val_01408.png,erythroblast
+1409,val_01409.png,neutrophil
+1410,val_01410.png,platelet
+1411,val_01411.png,platelet
+1412,val_01412.png,monocyte
+1413,val_01413.png,erythroblast
+1414,val_01414.png,monocyte
+1415,val_01415.png,immature granulocytes
+1416,val_01416.png,monocyte
+1417,val_01417.png,immature granulocytes
+1418,val_01418.png,immature granulocytes
+1419,val_01419.png,platelet
+1420,val_01420.png,neutrophil
+1421,val_01421.png,immature granulocytes
+1422,val_01422.png,monocyte
+1423,val_01423.png,platelet
+1424,val_01424.png,eosinophil
+1425,val_01425.png,lymphocyte
+1426,val_01426.png,eosinophil
+1427,val_01427.png,erythroblast
+1428,val_01428.png,eosinophil
+1429,val_01429.png,eosinophil
+1430,val_01430.png,eosinophil
+1431,val_01431.png,monocyte
+1432,val_01432.png,monocyte
+1433,val_01433.png,neutrophil
+1434,val_01434.png,neutrophil
+1435,val_01435.png,lymphocyte
+1436,val_01436.png,eosinophil
+1437,val_01437.png,platelet
+1438,val_01438.png,lymphocyte
+1439,val_01439.png,erythroblast
+1440,val_01440.png,monocyte
+1441,val_01441.png,neutrophil
+1442,val_01442.png,platelet
+1443,val_01443.png,platelet
+1444,val_01444.png,monocyte
+1445,val_01445.png,platelet
+1446,val_01446.png,eosinophil
+1447,val_01447.png,lymphocyte
+1448,val_01448.png,erythroblast
+1449,val_01449.png,monocyte
+1450,val_01450.png,platelet
+1451,val_01451.png,basophil
+1452,val_01452.png,lymphocyte
+1453,val_01453.png,immature granulocytes
+1454,val_01454.png,lymphocyte
+1455,val_01455.png,erythroblast
+1456,val_01456.png,platelet
+1457,val_01457.png,erythroblast
+1458,val_01458.png,basophil
+1459,val_01459.png,platelet
+1460,val_01460.png,basophil
+1461,val_01461.png,lymphocyte
+1462,val_01462.png,lymphocyte
+1463,val_01463.png,platelet
+1464,val_01464.png,immature granulocytes
+1465,val_01465.png,platelet
+1466,val_01466.png,immature granulocytes
+1467,val_01467.png,neutrophil
+1468,val_01468.png,monocyte
+1469,val_01469.png,neutrophil
+1470,val_01470.png,neutrophil
+1471,val_01471.png,neutrophil
+1472,val_01472.png,immature granulocytes
+1473,val_01473.png,neutrophil
+1474,val_01474.png,neutrophil
+1475,val_01475.png,lymphocyte
+1476,val_01476.png,eosinophil
+1477,val_01477.png,neutrophil
+1478,val_01478.png,platelet
+1479,val_01479.png,lymphocyte
+1480,val_01480.png,platelet
+1481,val_01481.png,lymphocyte
+1482,val_01482.png,monocyte
+1483,val_01483.png,platelet
+1484,val_01484.png,neutrophil
+1485,val_01485.png,basophil
+1486,val_01486.png,basophil
+1487,val_01487.png,neutrophil
+1488,val_01488.png,eosinophil
+1489,val_01489.png,neutrophil
+1490,val_01490.png,neutrophil
+1491,val_01491.png,monocyte
+1492,val_01492.png,lymphocyte
+1493,val_01493.png,eosinophil
+1494,val_01494.png,monocyte
+1495,val_01495.png,monocyte
+1496,val_01496.png,eosinophil
+1497,val_01497.png,erythroblast
+1498,val_01498.png,erythroblast
+1499,val_01499.png,neutrophil
+1500,val_01500.png,monocyte
+1501,val_01501.png,neutrophil
+1502,val_01502.png,neutrophil
+1503,val_01503.png,monocyte
+1504,val_01504.png,erythroblast
+1505,val_01505.png,monocyte
+1506,val_01506.png,eosinophil
+1507,val_01507.png,immature granulocytes
+1508,val_01508.png,platelet
+1509,val_01509.png,immature granulocytes
+1510,val_01510.png,eosinophil
+1511,val_01511.png,eosinophil
+1512,val_01512.png,neutrophil
+1513,val_01513.png,eosinophil
+1514,val_01514.png,immature granulocytes
+1515,val_01515.png,immature granulocytes
+1516,val_01516.png,eosinophil
+1517,val_01517.png,lymphocyte
+1518,val_01518.png,platelet
+1519,val_01519.png,neutrophil
+1520,val_01520.png,monocyte
+1521,val_01521.png,erythroblast
+1522,val_01522.png,immature granulocytes
+1523,val_01523.png,immature granulocytes
+1524,val_01524.png,neutrophil
+1525,val_01525.png,neutrophil
+1526,val_01526.png,eosinophil
+1527,val_01527.png,neutrophil
+1528,val_01528.png,neutrophil
+1529,val_01529.png,lymphocyte
+1530,val_01530.png,eosinophil
+1531,val_01531.png,eosinophil
+1532,val_01532.png,eosinophil
+1533,val_01533.png,monocyte
+1534,val_01534.png,erythroblast
+1535,val_01535.png,eosinophil
+1536,val_01536.png,monocyte
+1537,val_01537.png,neutrophil
+1538,val_01538.png,platelet
+1539,val_01539.png,immature granulocytes
+1540,val_01540.png,erythroblast
+1541,val_01541.png,platelet
+1542,val_01542.png,platelet
+1543,val_01543.png,monocyte
+1544,val_01544.png,monocyte
+1545,val_01545.png,eosinophil
+1546,val_01546.png,eosinophil
+1547,val_01547.png,platelet
+1548,val_01548.png,immature granulocytes
+1549,val_01549.png,eosinophil
+1550,val_01550.png,eosinophil
+1551,val_01551.png,platelet
+1552,val_01552.png,platelet
+1553,val_01553.png,neutrophil
+1554,val_01554.png,immature granulocytes
+1555,val_01555.png,eosinophil
+1556,val_01556.png,basophil
+1557,val_01557.png,monocyte
+1558,val_01558.png,basophil
+1559,val_01559.png,lymphocyte
+1560,val_01560.png,basophil
+1561,val_01561.png,basophil
+1562,val_01562.png,neutrophil
+1563,val_01563.png,lymphocyte
+1564,val_01564.png,neutrophil
+1565,val_01565.png,neutrophil
+1566,val_01566.png,immature granulocytes
+1567,val_01567.png,immature granulocytes
+1568,val_01568.png,monocyte
+1569,val_01569.png,neutrophil
+1570,val_01570.png,eosinophil
+1571,val_01571.png,neutrophil
+1572,val_01572.png,erythroblast
+1573,val_01573.png,neutrophil
+1574,val_01574.png,erythroblast
+1575,val_01575.png,immature granulocytes
+1576,val_01576.png,immature granulocytes
+1577,val_01577.png,immature granulocytes
+1578,val_01578.png,platelet
+1579,val_01579.png,immature granulocytes
+1580,val_01580.png,monocyte
+1581,val_01581.png,lymphocyte
+1582,val_01582.png,eosinophil
+1583,val_01583.png,immature granulocytes
+1584,val_01584.png,neutrophil
+1585,val_01585.png,eosinophil
+1586,val_01586.png,neutrophil
+1587,val_01587.png,eosinophil
+1588,val_01588.png,immature granulocytes
+1589,val_01589.png,platelet
+1590,val_01590.png,erythroblast
+1591,val_01591.png,eosinophil
+1592,val_01592.png,monocyte
+1593,val_01593.png,eosinophil
+1594,val_01594.png,basophil
+1595,val_01595.png,neutrophil
+1596,val_01596.png,immature granulocytes
+1597,val_01597.png,neutrophil
+1598,val_01598.png,erythroblast
+1599,val_01599.png,eosinophil
+1600,val_01600.png,monocyte
+1601,val_01601.png,monocyte
+1602,val_01602.png,eosinophil
+1603,val_01603.png,basophil
+1604,val_01604.png,neutrophil
+1605,val_01605.png,basophil
+1606,val_01606.png,platelet
+1607,val_01607.png,platelet
+1608,val_01608.png,eosinophil
+1609,val_01609.png,eosinophil
+1610,val_01610.png,eosinophil
+1611,val_01611.png,immature granulocytes
+1612,val_01612.png,platelet
+1613,val_01613.png,immature granulocytes
+1614,val_01614.png,eosinophil
+1615,val_01615.png,platelet
+1616,val_01616.png,lymphocyte
+1617,val_01617.png,neutrophil
+1618,val_01618.png,immature granulocytes
+1619,val_01619.png,neutrophil
+1620,val_01620.png,platelet
+1621,val_01621.png,platelet
+1622,val_01622.png,lymphocyte
+1623,val_01623.png,immature granulocytes
+1624,val_01624.png,neutrophil
+1625,val_01625.png,eosinophil
+1626,val_01626.png,erythroblast
+1627,val_01627.png,neutrophil
+1628,val_01628.png,lymphocyte
+1629,val_01629.png,lymphocyte
+1630,val_01630.png,eosinophil
+1631,val_01631.png,monocyte
+1632,val_01632.png,platelet
+1633,val_01633.png,eosinophil
+1634,val_01634.png,eosinophil
+1635,val_01635.png,erythroblast
+1636,val_01636.png,eosinophil
+1637,val_01637.png,immature granulocytes
+1638,val_01638.png,neutrophil
+1639,val_01639.png,immature granulocytes
+1640,val_01640.png,eosinophil
+1641,val_01641.png,neutrophil
+1642,val_01642.png,basophil
+1643,val_01643.png,neutrophil
+1644,val_01644.png,monocyte
+1645,val_01645.png,eosinophil
+1646,val_01646.png,eosinophil
+1647,val_01647.png,neutrophil
+1648,val_01648.png,neutrophil
+1649,val_01649.png,immature granulocytes
+1650,val_01650.png,immature granulocytes
+1651,val_01651.png,immature granulocytes
+1652,val_01652.png,eosinophil
+1653,val_01653.png,platelet
+1654,val_01654.png,lymphocyte
+1655,val_01655.png,monocyte
+1656,val_01656.png,eosinophil
+1657,val_01657.png,neutrophil
+1658,val_01658.png,immature granulocytes
+1659,val_01659.png,eosinophil
+1660,val_01660.png,eosinophil
+1661,val_01661.png,eosinophil
+1662,val_01662.png,immature granulocytes
+1663,val_01663.png,erythroblast
+1664,val_01664.png,neutrophil
+1665,val_01665.png,eosinophil
+1666,val_01666.png,eosinophil
+1667,val_01667.png,platelet
+1668,val_01668.png,immature granulocytes
+1669,val_01669.png,basophil
+1670,val_01670.png,immature granulocytes
+1671,val_01671.png,platelet
+1672,val_01672.png,platelet
+1673,val_01673.png,erythroblast
+1674,val_01674.png,basophil
+1675,val_01675.png,eosinophil
+1676,val_01676.png,basophil
+1677,val_01677.png,immature granulocytes
+1678,val_01678.png,neutrophil
+1679,val_01679.png,eosinophil
+1680,val_01680.png,lymphocyte
+1681,val_01681.png,basophil
+1682,val_01682.png,platelet
+1683,val_01683.png,monocyte
+1684,val_01684.png,immature granulocytes
+1685,val_01685.png,eosinophil
+1686,val_01686.png,eosinophil
+1687,val_01687.png,neutrophil
+1688,val_01688.png,neutrophil
+1689,val_01689.png,platelet
+1690,val_01690.png,neutrophil
+1691,val_01691.png,neutrophil
+1692,val_01692.png,erythroblast
+1693,val_01693.png,neutrophil
+1694,val_01694.png,basophil
+1695,val_01695.png,monocyte
+1696,val_01696.png,eosinophil
+1697,val_01697.png,monocyte
+1698,val_01698.png,monocyte
+1699,val_01699.png,eosinophil
+1700,val_01700.png,neutrophil
+1701,val_01701.png,eosinophil
+1702,val_01702.png,neutrophil
+1703,val_01703.png,eosinophil
+1704,val_01704.png,immature granulocytes
+1705,val_01705.png,neutrophil
+1706,val_01706.png,eosinophil
+1707,val_01707.png,immature granulocytes
+1708,val_01708.png,neutrophil
+1709,val_01709.png,immature granulocytes
+1710,val_01710.png,eosinophil
+1711,val_01711.png,neutrophil

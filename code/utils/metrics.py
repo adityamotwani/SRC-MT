@@ -1,10 +1,10 @@
 # encoding: utf-8
 import numpy as np
-from sklearn.metrics.ranking import roc_auc_score
+from sklearn.metrics import roc_auc_score
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score#, sensitivity_score
 from imblearn.metrics import sensitivity_score, specificity_score
 import pdb
-from sklearn.metrics.ranking import roc_auc_score
+
 
 
 N_CLASSES = 7
