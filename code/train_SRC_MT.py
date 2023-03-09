@@ -33,12 +33,12 @@ parser.add_argument('--csv_file_train', type=str, default='..\\blood\\train.csv'
 parser.add_argument('--csv_file_val', type=str, default='..\\data\\blood\\val.csv', help='validation set csv file')
 parser.add_argument('--csv_file_test', type=str, default='..\\data\\blood\\test.csv', help='testing set csv file')
 parser.add_argument('--exp', type=str,  default='xxxx', help='model_name')
-parser.add_argument('--epochs', type=int,  default=100, help='maximum epoch number to train')
+parser.add_argument('--epochs', type=int,  default=10, help='maximum epoch number to train')
 parser.add_argument('--batch_size', type=int, default=16, help='batch_size per gpu')
 parser.add_argument('--labeled_bs', type=int, default=4, help='number of labeled data per batch')
 parser.add_argument('--drop_rate', type=int, default=0.2, help='dropout rate')
 parser.add_argument('--ema_consistency', type=int, default=1, help='whether train baseline model')
-parser.add_argument('--labeled_num', type=int, default=1400, help='number of labeled')
+parser.add_argument('--labeled_num', type=int, default=120, help='number of labeled')
 parser.add_argument('--base_lr', type=float,  default=1e-4, help='maximum epoch number to train')
 parser.add_argument('--deterministic', type=int,  default=1, help='whether use deterministic training')
 parser.add_argument('--seed', type=int,  default=1337, help='random seed')
@@ -104,7 +104,7 @@ if __name__ == "__main__":
         net = DenseNet121(out_size=dataset.N_CLASSES, mode=args.label_uncertainty, drop_rate=args.drop_rate)
         if len(args.gpu.split(',')) > 1:
             net = torch.nn.DataParallel(net)
-        model = net
+        model = net.cuda()
         if ema:
             for param in model.parameters():
                 param.detach_()
@@ -160,7 +160,7 @@ if __name__ == "__main__":
                                           ]))
 
     labeled_idxs = list(range(args.labeled_num))
-    unlabeled_idxs = list(range(args.labeled_num, 7000))
+    unlabeled_idxs = list(range(args.labeled_num, 11958))
     batch_sampler = TwoStreamBatchSampler(labeled_idxs, unlabeled_idxs, batch_size, batch_size-labeled_bs)
 
     def worker_init_fn(worker_id):
@@ -199,7 +199,7 @@ if __name__ == "__main__":
         for i, (_, (image_batch, ema_image_batch), label_batch) in enumerate(train_dataloader):
             time2 = time.time()
             # print('fetch data cost {}'.format(time2-time1))
-            image_batch, ema_image_batch, label_batch = image_batch , ema_image_batch , label_batch 
+            image_batch, ema_image_batch, label_batch = image_batch.cuda() , ema_image_batch.cuda() , label_batch.cuda() 
             # unlabeled_image_batch = ema_image_batch[labeled_bs:]
 
             # noise1 = torch.clamp(torch.randn_like(image_batch) * 0.1, -0.1, 0.1)
