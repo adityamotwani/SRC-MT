@@ -29,7 +29,7 @@ from validation import epochVal, epochVal_metrics
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--root_path', type=str, default='..\\data\\blood\\images', help='dataset root dir')
-parser.add_argument('--csv_file_train', type=str, default='..\\blood\\train.csv', help='training set csv file')
+parser.add_argument('--csv_file_train', type=str, default='..\\data\\blood\\train.csv', help='training set csv file')
 parser.add_argument('--csv_file_val', type=str, default='..\\data\\blood\\val.csv', help='validation set csv file')
 parser.add_argument('--csv_file_test', type=str, default='..\\data\\blood\\test.csv', help='testing set csv file')
 parser.add_argument('--exp', type=str,  default='xxxx', help='model_name')
@@ -104,7 +104,7 @@ if __name__ == "__main__":
         net = DenseNet121(out_size=dataset.N_CLASSES, mode=args.label_uncertainty, drop_rate=args.drop_rate)
         if len(args.gpu.split(',')) > 1:
             net = torch.nn.DataParallel(net)
-        model = net.cuda()
+        model = net 
         if ema:
             for param in model.parameters():
                 param.detach_()
@@ -199,7 +199,7 @@ if __name__ == "__main__":
         for i, (_, (image_batch, ema_image_batch), label_batch) in enumerate(train_dataloader):
             time2 = time.time()
             # print('fetch data cost {}'.format(time2-time1))
-            image_batch, ema_image_batch, label_batch = image_batch.cuda() , ema_image_batch.cuda() , label_batch.cuda() 
+            image_batch, ema_image_batch, label_batch = image_batch  , ema_image_batch  , label_batch  
             # unlabeled_image_batch = ema_image_batch[labeled_bs:]
 
             # noise1 = torch.clamp(torch.randn_like(image_batch) * 0.1, -0.1, 0.1)
